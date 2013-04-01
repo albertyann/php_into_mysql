@@ -1,9 +1,9 @@
 <?php
 /*
-define("DbHost", "10.0.7.119"); //数据库主机
-define("DbUser", "uazc47XESCWTA"); //数据库用户
-define("DbPass", "pUNiVFuSWdHLE"); //数据库口令
-define("DbName", "d5c131ee0b6004fa995c411df0f82e671"); //数据库名
+define("DbHost", "*.*.*.*"); //数据库主机
+define("DbUser", "********"); //数据库用户
+define("DbPass", "********"); //数据库口令
+define("DbName", "*"); //数据库名
 */
 
 define("DbHost", "127.0.0.1"); //数据库主机
