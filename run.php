@@ -92,6 +92,6 @@ if(count($_errors) > 0){
 		echo $e."\n";
 	}
 }else{
-	echo "安装成功";
+	echo "安装成功!";
 }
 ?>
